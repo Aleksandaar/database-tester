@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/database_tester.svg)](http://badge.fury.io/rb/database_tester)
+[![Gem Version](https://badge.fury.io/rb/database_tester.png)](https://badge.fury.io/rb/database_tester)
 
 # Database::Tester
 
