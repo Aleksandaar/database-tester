@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/database_tester.svg)](http://badge.fury.io/rb/database_tester)
+
 # Database::Tester
 
 Testing database methods made easy.
@@ -10,7 +12,7 @@ Add this line to your application's Gemfile, under `test` group:
 
 ```ruby
 group :test do
-  gem 'database-tester'
+  gem 'database_tester'
 end
 ```
 
@@ -20,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install database-tester
+    $ gem install database_tester
 
 In your `spec_helper.rb` add on top of your file:
 
@@ -125,7 +127,7 @@ bundle exec rspec spec/
 
 Bug reports and pull requests are always welcome.
 
-1. Fork it ( https://github.com/aleksandaar/database-tester/fork )
+1. Fork it ( https://github.com/aleksandaar/database_tester/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "database/tester/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "database-tester"
+  spec.name          = "database_tester"
   spec.version       = Database::Tester::VERSION
   spec.authors       = ["Aleksandar Zoric"]
   spec.email         = ["aleksandroz.mail@gmail.com"]
